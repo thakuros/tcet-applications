@@ -1,3 +1,3 @@
-# TOS Repository
+# TCET Application Repository
 
-Repo list
+All applications for the TCET Linux project. Contains pre compiled binaries compressed in zstd compression.
